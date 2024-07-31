@@ -1,4 +1,3 @@
-// script.js
 
 let startTime, updatedTime, difference, timerInterval;
 let running = false;
